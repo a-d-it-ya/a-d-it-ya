@@ -1,51 +1,18 @@
-<h1 align="center">Hi, I'm Aditya 👋</h1>
+# 💫 About Me:
+I’m an AI & Embedded Systems enthusiast who loves building things that sit at the intersection of hardware, software, and intelligence.<br><br>My core interests lie in:<br><br>🤖 Artificial Intelligence & Machine Learning<br><br>🔧 Embedded Systems & Low-level programming<br><br>🚀 Robotics, drones, and autonomous systems<br><br>🛡️ Defense & aerospace technologies<br><br>I enjoy breaking complex systems down to fundamentals — whether it’s understanding how an operating system works, optimizing code for resource-constrained hardware, or designing intelligent systems that can sense, decide, and act in the real world.<br><br>Currently, I’m focused on:<br><br>Combining AI with embedded systems<br><br>Learning and building projects in robotics, autonomous vehicles, and intelligent control<br><br>Strengthening my foundations in computer architecture, systems, and electronics<br><br>Long term, I aim to build high-impact, real-world technology — systems that are fast, efficient, reliable, and intelligently designed.<br><br>Curious by nature. Builder by choice. Always learning.
 
-<p align="center">
-  <em>Embedded Systems Engineer • AI Explorer • Tech Innovator</em><br>
-  <strong>Building the future at the intersection of hardware & intelligence</strong>
-</p>
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adityasingh019) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aditya.singh.bu1902@gmail.com) 
 
-### 🔧 Tech Stack
-
-- **Languages**: C/C++, Python, Embedded C, Assembly (ARM)
-- **Platforms**: STM32, ESP32, Arduino, Raspberry Pi, AVR
-- **Tools**: Keil, STM32CubeIDE, PlatformIO, MPLAB X, EasyEDA, KiCAD, Proteus
-- **OS**: Linux (Ubuntu, Kali), RTOS (FreeRTOS)
-- **Other**: Git, JTAG, UART, SPI, I2C, CAN Bus
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Uber](https://img.shields.io/badge/Uber-%23000000.svg?style=for-the-badge&logo=Uber&logoColor=white) ![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=a-d-it-ya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=a-d-it-ya&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=a-d-it-ya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=a-d-it-ya&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🛠️ Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| **Smart Energy Meter** | IoT-based real-time billing & load management | ESP32, NodeMCU, Firebase |
-| **AI Surveillance Drone** | Self-piloting drone with anomaly detection | Raspberry Pi, OpenCV, YOLOv5 |
-| **Self-Healing Embedded OS** | An experimental microkernel with fault recovery | Bare Metal, C, Watchdog |
-| **PCB for Motor Driver** | Custom PCB design for dual H-bridge motor control | KiCad, EasyEDA |
-
----
-
-### 🚀 Currently Learning
-
-- Verilog + FPGA design  
-- AUTOSAR & Automotive-grade embedded software  
-- Advanced robotics + AI control  
-- Building JARVIS-like AI for real-time embedded systems
-
----
-
-### 📫 Contact Me
-
-- 🌐 Portfolio: _Coming soon_
-- 📧 Email: yourname@example.com
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- 🔗 LinkedIn: [your-linkedin](https://linkedin.com/in/yourname)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=a-d-it-ya&style=flat-square&color=blue" alt="GitHub Profile Views"/>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
