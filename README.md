@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 I’m an AI & Embedded Systems enthusiast who loves building things that sit at the intersection of hardware, software, and intelligence.<br><br>My core interests lie in:<br><br>🤖 Artificial Intelligence & Machine Learning<br><br>🔧 Embedded Systems & Low-level programming<br><br>🚀 Robotics, drones, and autonomous systems<br><br>🛡️ Defense & aerospace technologies<br><br>I enjoy breaking complex systems down to fundamentals — whether it’s understanding how an operating system works, optimizing code for resource-constrained hardware, or designing intelligent systems that can sense, decide, and act in the real world.<br><br>Currently, I’m focused on:<br><br>Combining AI with embedded systems<br><br>Learning and building projects in robotics, autonomous vehicles, and intelligent control<br><br>Strengthening my foundations in computer architecture, systems, and electronics<br><br>Long term, I aim to build high-impact, real-world technology — systems that are fast, efficient, reliable, and intelligently designed.<br><br>Curious by nature. Builder by choice. Always learning.
 
 
