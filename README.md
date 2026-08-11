@@ -1,46 +1,73 @@
-# ⟨ A-D-IT-YA ⟩
+<div align="center">
 
-> AI & Embedded Systems Engineer — building machines that decide.
+██████████████████████████████████████████████████
+█ █
+█ A - D - I T - Y A // SYSTEM.exe █
+█ █
+██████████████████████████████████████████████████
 
----
 
-## ▍ABOUT
+**AI & EMBEDDED SYSTEMS ENGINEER**
+`building machines that decide`
 
-I'm an AI & Embedded Systems engineer working at the intersection of hardware, software, and intelligence. I break complex systems down to first principles — how an OS schedules a task, how a signal survives noise, how a system senses, decides, and acts in the real world.
+</div>
 
-**Core Interests**
-- Artificial Intelligence & Machine Learning
-- Embedded Systems & Low-level Programming
-- Robotics, Drones & Autonomous Systems
-- Defense & Aerospace Technologies
+<br>
 
-**Current Focus**
-- Fusing AI with embedded systems
-- Robotics, autonomous vehicles & intelligent control
-- Strengthening foundations in computer architecture & electronics
+┌──────────────────────────────────────────────────┐
+│ root@aditya:~$ whoami │
+└──────────────────────────────────────────────────┘
 
-**Long-Term Goal**
-Building high-impact, real-world technology — systems that are fast, efficient, reliable, and intelligently designed.
 
-> Curious by nature. Builder by choice. Always learning.
+I'm an **AI & Embedded Systems** engineer working at the intersection of hardware, software, and intelligence. I break complex systems down to first principles — how an OS schedules a task, how a signal survives noise, how a system senses, decides, and acts in the real world.
 
----
+┌─ core_interests ───────────────────────────────────
+│ ▸ Artificial Intelligence & Machine Learning
+│ ▸ Embedded Systems & Low-level Programming
+│ ▸ Robotics, Drones & Autonomous Systems
+│ ▸ Defense & Aerospace Technologies
+└─────────────────────────────────────────────────────
 
-## ▍TECH STACK
+┌─ current_focus ────────────────────────────────────
+│ ▸ Fusing AI with embedded systems
+│ ▸ Robotics, autonomous vehicles & intelligent control
+│ ▸ Strengthening foundations in computer architecture
+└─────────────────────────────────────────────────────
 
-`C` · `C++` · `Java` · `Python` · `Arduino` · `NVIDIA`
+┌─ long_term_goal ───────────────────────────────────
+│ Building high-impact, real-world technology —
+│ systems that are fast, efficient, reliable,
+│ and intelligently designed.
+└─────────────────────────────────────────────────────
 
-`TensorFlow` · `scikit-learn` · `Pandas` · `NumPy`
 
-`MySQL` · `MongoDB` · `Git` · `GitHub` · `Zigbee`
+> _Curious by nature. Builder by choice. Always learning._
 
----
+<br>
 
-## ▍UPLINK
+┌──────────────────────────────────────────────────┐
+│ root@aditya:~$ cat tech_stack.log │
+└──────────────────────────────────────────────────┘
 
-**LinkedIn** → [linkedin.com/in/adityasingh019](https://linkedin.com/in/adityasingh019)
-**Email** → [aditya.singh.bu1902@gmail.com](mailto:aditya.singh.bu1902@gmail.com)
+[ LANGUAGES ] C · C++ · Java · Python
+[ HARDWARE ] Arduino · NVIDIA
+[ ML / AI ] TensorFlow · scikit-learn · Pandas · NumPy
+[ DATA ] MySQL · MongoDB
+[ TOOLING ] Git · GitHub · Zigbee
 
----
 
-`SYSTEM READY · AWAITING NEXT COMMAND_`
+<br>
+
+┌──────────────────────────────────────────────────┐
+│ root@aditya:~$ ping socials --uplink │
+└──────────────────────────────────────────────────┘
+
+[ LINKEDIN ] linkedin.com/in/adityasingh019
+[ EMAIL ] aditya.singh.bu1902@gmail.com
+
+
+<div align="center">
+
+`▁▂▃▄▅▆▇█ SIGNAL STABLE · SYSTEM READY █▇▆▅▄▃▂▁`
+
+</div
