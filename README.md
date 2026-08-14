@@ -38,6 +38,3 @@ I care more about systems that are honest about their failure modes than ones th
 <a href="https://www.x.com/comeonaditya" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/comeonaditya?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
-### Badges
-
-
