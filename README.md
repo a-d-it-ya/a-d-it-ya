@@ -40,6 +40,4 @@ src="https://img.shields.io/twitter/follow/comeonaditya?logo=twitter&style=for-t
 /></a>
 ### Badges
 
-<b>Top Repositories</b>
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
